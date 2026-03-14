@@ -148,17 +148,7 @@ Planned upgrades include:
 •	Web interface 
 •	Multi-agent collaboration 
 •	Knowledge graph visualization 
-•	Smart recovery system 
-  
-Installation 
-Clone the repository 
-git clone https://github.com/Bantu-Mohan/Hackathon-for-AI-agent-.git 
-cd Hackathon-for-AI-agent- 
-Install dependencies 
-pip install -r requirements.txt 
-Run the agent 
-python main.py 
-  
+•	Smart recovery system   
 Project Structure 
 Hackathon-for-AI-agent- 
 │ 
